@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <language>
+    <name>Dutch</name>
+    <isofficial>T</isofficial>
+    <percentage>5.3</percentage>
+  </language>
+
+  <language>
+    <name>Kongo</name>
+    <isofficial>F</isofficial>
+    <percentage>13.2</percentage>
+  </language>
+
+  <language>
+    <name>French</name>
+    <isofficial>F</isofficial>
+    <percentage>6.2</percentage>
+  </language>
+</languages>

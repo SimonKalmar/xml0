@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country>
+    <code>AUS</code>
+    <name>Australia</name>
+    <continent>Oceania</continent>
+    <region>Australia and New Zealand</region>
+    <surfacearea>7741220</surfacearea>
+    <indepyear>1901</indepyear>
+    <population>18886000</population>
+    <life>79.8</life>
+    <gnp>351182</gnp>
+    <gnpold>392911</gnpold>
+    <localname>Australia</localname>
+    <governmentform>Constitutional Monarchy, Federation</governmentform>
+    <headofstate>Elisabeth II</headofstate>
+    <capital>135</capital>
+    <code2>AU</code2>
+  </country>
+
+  <country>
+    <code>CHN</code>
+    <name>China</name>
+    <continent>Asia</continent>
+    <region>Eastern Asia</region>
+    <surfacearea>9572900</surfacearea>
+    <indepyear>-1523</indepyear>
+    <population>1277558000</population>
+    <life>71.4</life>
+    <gnp>982268</gnp>
+    <gnpold>917719</gnpold>
+    <localname>Zhongquo</localname>
+    <governmentform>People's Republic</governmentform>
+    <headofstate>Jiang Zemin</headofstate>
+    <capital>1891</capital>
+    <code2>CN</code2>
+  </country>
+
+  <country>
+    <code>DNK</code>
+    <name>Denmark</name>
+    <continent>Europe</continent>
+    <region>Nordic Countries</region>
+    <surfacearea>43094</surfacearea>
+    <indepyear>800</indepyear>
+    <population>5330000</population>
+    <life>76.5</life>
+    <gnp>174099</gnp>
+    <gnpold>169264</gnpold>
+    <localname>Danmark</localname>
+    <governmentform>Constitutional Monarchy</governmentform>
+    <headofstate>Margrethe II</headofstate>
+    <capital>3315</capital>
+    <code2>DK</code2>
+  </country>
+</countries>

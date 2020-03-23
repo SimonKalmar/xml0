@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lecturenotes>
+  <notes>
+    <subject>Web Programming</subject>
+    <teacher>Niels</teacher>
+    <lesson>First</lesson>
+    <themename>Intro/Recap, Terminology</themename>
+    <note>In a natural language a building block of the language is a sentence. Sentences consist of words, long or short. The words are built from characters, usually in themselves meaningless, but with some phonetic implication.</note>
+    <note>In a programming language, the sentences are called statements. Statements consist of expressions that are built of variable(s) and value(s) combined by operator(s). In a running program an expression always has a value.</note>
+  </notes>
+  <notes>
+    <subject>Web Programming II</subject>
+    <teacher>Niels</teacher>
+    <lesson>Nineteen</lesson>
+    <themename>Node.js - V, NoSQL Database MongoDB</themename>
+    <note>Create, ie write an entry into a database, in casu a document into a database collection. In mongodb the function is insert().</note>
+    <note>Delete, ie delete an entry from a database, in casu a document in database collection.</note>
+  </notes>
+</lecturenotes>

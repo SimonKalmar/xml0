@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+  <city>
+    <oldid>131</oldid>
+    <name>Melbourne</name>
+    <countrycode>AUS</countrycode>
+    <district>Victoria</district>
+    <population>2865329</population>
+  </city>
+  <city>
+    <oldid>142</oldid>
+    <name>Townswille</name>
+    <countrycode>AUS</countrycode>
+    <district>Queensland</district>
+    <population>109914</population>
+  </city>
+  <city>
+    <oldid>913</oldid>
+    <name>Tema</name>
+    <countrycode>GHA</countrycode>
+    <district>Greater Accra</district>
+    <population>109975</population>
+  </city>
+</cities>
